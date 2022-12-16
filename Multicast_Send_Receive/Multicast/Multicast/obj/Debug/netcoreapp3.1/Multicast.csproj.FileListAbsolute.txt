@@ -1,0 +1,14 @@
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.exe
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.deps.json
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.runtimeconfig.json
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.runtimeconfig.dev.json
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.dll
+C:\Users\LHW\source\repos\Multicast\Multicast\bin\Debug\netcoreapp3.1\Multicast.pdb
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.csproj.AssemblyReference.cache
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.AssemblyInfoInputs.cache
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.AssemblyInfo.cs
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.csproj.CoreCompileInputs.cache
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.dll
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.pdb
+C:\Users\LHW\source\repos\Multicast\Multicast\obj\Debug\netcoreapp3.1\Multicast.genruntimeconfig.cache

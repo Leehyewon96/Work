@@ -1,0 +1,14 @@
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.exe
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.deps.json
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.runtimeconfig.json
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.runtimeconfig.dev.json
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.dll
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\bin\Debug\netcoreapp3.1\Multicast_Receiver.pdb
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.csproj.AssemblyReference.cache
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.AssemblyInfoInputs.cache
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.AssemblyInfo.cs
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.csproj.CoreCompileInputs.cache
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.dll
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.pdb
+C:\Users\LHW\source\repos\Multicast_Receiver\Multicast_Receiver\obj\Debug\netcoreapp3.1\Multicast_Receiver.genruntimeconfig.cache
