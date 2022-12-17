@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.exe
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.deps.json
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.runtimeconfig.json
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.dll
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\bin\Debug\netcoreapp3.1\ServerSocket.pdb
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.dll
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.pdb
+C:\Users\ASUS\source\repos\ServerSocket\ServerSocket\obj\Debug\netcoreapp3.1\ServerSocket.genruntimeconfig.cache
